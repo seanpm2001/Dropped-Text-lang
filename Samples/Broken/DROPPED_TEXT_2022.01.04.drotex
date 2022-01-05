@@ -1,0 +1,90 @@
+/:DroppedText:\
+/:OS{Linux/Ubuntu}:\
+/:DroppedTextSpec={"V0.0.1"}:\
+/:FileDate:Y2022-M1-D04:\
+/:FileExtension:*.drotex:\
+// All extensions: *.dropt *.droptex *.droptxt *.drotex *.drotxt *.drtxt *.dtxt *.droppedtext *.droppedtxt *.droppedtex
+/:FileLanguage:English{US}:\
+/:Encoding:{UTF-8}:\
+// UTF-16 and UTF-32 are also supported
+// This is a syntax file for droppedText, a handy markup language manual way of moving filenames across manually. It isn't recommended for professional use, I just can't automate tasks yet
+// Why are backslashes used in syntax?
+// A backslash is the only character that can't be used in a filename (which is a good thing) and it is used for configuration and comments in this file specification
+// Config lines start with a /: and end with a :\ but are not applicable if the line starts with //
+// Also, any character after the :\ is ignored (unless of course, it is a comment)
+/:TOC:\
+// Table of contents
+// Syntax note: whitespace is counted as whitespace to prevent headaches
+/:Section-Count: 9
+/:Section1#DDS(Daily Desktop Screenshot)
+/:Section2#KA End of day
+/:Section3#Commit count milestone
+/:Section4#Errrors
+/:Section5#End of day milestones
+/:Section6#Wiki archive end of day
+/:Section7#Daily gaming end of day
+/:Section8#Weekly gaming end of day
+/:Section9#GNOME System Monitor
+/::\
+/:Entry{Start}:\
+
+/:Section1:\
+// DDS (Daily Desktop Screenshot)
+// Entry count: 1
+DailyDesktopScreenshot1348_2021December27th_1080p
+
+/:Section2:\
+// KA End of day
+// Entry count: 1
+KhanAcademy_Day1667_MissedDaysEqualsOne_2021December26th_1080p
+
+/:Section3:\
+// Commit count milestone
+// Entry count: 1
+GitHub_70800Commits_2021December27th_LightMode_1080p
+
+/:Section4:\
+// Errors
+// Entry count: 2
+Unicorn1_2021December27th_LightMode_1080p
+CodeSpace_Error1_2021December26th_LightMode_1080p
+
+/:Section5:\
+// End of day milestones
+// Entry count: 3
+GitHub_283Followers_1.5KFollowing_NaNStars_2021December27th_LightMode_1080p
+GitHub_71546Commits_2021December27th_LightMode_1080p
+GitHub_EndofDay_2021December27th_70862Commits_LightMode_1080p
+
+/:Section6:\
+// Wiki archive end of day
+// Entry count: 10
+SNU_2D_ProgrammingTools_Wiki_2021ArchiveRepo_EndofDay_2021December26th_12Commits_LightMode_1080p
+Scratch_Master_Wiki_2021ArchiveRepo_EndofDay_2021December26th_11Commits_LightMode_1080p
+Underune_Maker_Wiki_2021ArchiveRepo_EndofDay_2021December26th_12Commits_LightMode_1080p
+SNU_3D_Universe_Wiki_2021ArchiveRepo_EndofDay_2021December26th_12Commits_LightMode_1080p
+SPM_FoodIndex_Wiki_2021ArchiveRepo_EndofDay_2021December26th_12Commits_LightMode_1080p
+Code-Distancing_Wiki_2021ArchiveRepo_EndofDay_2021December26th_26Commits_LightMode_1080p
+SNU_Wiki_2021ArchiveRepo_EndofDay_2021December26th_20Commits_LightMode_1080p
+SNU_2D_ProgrammingTools_Wiki_2021ArchiveRepo_EndofDay_2021December26th_12Commits_LightMode_1080p
+MCPYE_Wiki_2021ArchiveRepo_EndofDay_2021December26th_19Commits_LightMode_1080p
+KhanAcademyData_u-Seanwallawallaofficial_Wiki_2021ArchiveRepo_EndofDay_2021December26th_17Commits_LightMode_1080p
+
+/:Section7:\
+// Daily gaming end of day
+SeansLifeArchive_Images_ThePlayForge_TreeWorldRepo_EndofDay_2021December26th_465Commits_LightMode_1080p
+
+/:Section8:\
+// Weekly gaming end of day
+// Entry count: 2
+SeansLifeArchive_Images_BoomBeachRepo_EndofDay_2021December26th_902Commits_LightMode_1080p
+SeansLifeArchive_Images_ClashofClansRepo_EndofDay_2021December26th_914Commits_LightMode_1080p
+
+/:Section9:\
+// GNOME System Monitor
+// Entry count: 3
+GNOMESystemMonitor_ProgressBackup1_2021December28th_DarkMode_1080p
+GNOMESystemMonitor_EndofDay_2021December28th_RAM_CPU_UPDOWN_1080p
+GNOMESystemMonitor_EndofDay_2021December28th_Partitions_1080p
+
+/:Entry{end}:\
